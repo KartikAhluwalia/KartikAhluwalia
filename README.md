@@ -16,9 +16,9 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/kartika1304" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kartika1304" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/kartik ahluwalia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kartik ahluwalia" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/kartikahluwalia2004" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kartik ahluwalia" height="30" width="40" /></a>
 <a href="https://kaggle.com/kartik1304" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="kartik1304" height="30" width="40" /></a>
-<a href="https://fb.com/kartik ahluwalia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kartik ahluwalia" height="30" width="40" /></a>
+<a href="https://fb.com/kartik.ahluwalia.167" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kartik ahluwalia" height="30" width="40" /></a>
 <a href="https://instagram.com/kartikahluwalia2004" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kartikahluwalia2004" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/kartik1304" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="kartik1304" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/kartik1304" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="kartik1304" height="30" width="40" /></a>
