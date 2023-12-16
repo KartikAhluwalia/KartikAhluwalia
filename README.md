@@ -1,6 +1,17 @@
-# 💫 About Me:
- I'm a student and aspiring software developer with a passion for building meaningful solutions through technology.<br>Currently immersed in the IT industry, my journey involves diving into the realms of Machine Learning, AI, Web Development, and Data Structures & Algorithms (DSA). As a tech enthusiast, I thrive on learning and adapting to new challenges.
+<h1 align="center">Hi 👋, I'm Kartik Ahluwalia</h1>
+<h3 align="center">A passionate Software Developer from India</h3>
 
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/69011963/137184767-79a13ec7-1bb3-4341-a6da-3a149c9c159a.gif">
+
+- 🌱 I’m currently learning **Full Stack Web Development**
+
+- 👨‍💻 All of my projects are available at [https://github.com/KartikAhluwalia](https://github.com/KartikAhluwalia)
+
+- 💬 Ask me about **Machine Learning, Web Dev, AI, C++**
+
+- 📫 How to reach me **kartikahluwalia1304@gmail.com**
+
+- ⚡ Fun fact **I love Potatoes🥔**
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/kartik.ahluwalia.167) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kartikahluwalia2004) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kartikahluwalia2004) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/KartikA1304) 
