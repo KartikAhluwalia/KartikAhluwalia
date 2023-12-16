@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kartik Ahluwalia</h1>
 <h3 align="center">A passionate Software Developer from India</h3>
 
-<img align="right" alt"coding" width="400" src="https://github.com/KartikAhluwalia/KartikAhluwalia/assets/96951632/f7657b0b-53ac-49fd-805c-e8fd112fdfae">
+<img align="right" alt"coding" width="400" src="![image]https://github.com/KartikAhluwalia/KartikAhluwalia/assets/96951632/7254a9a0-d88c-4ba7-be85-ba0174fcbc22)">
 
 - 🌱 I’m currently learning **Full Stack Web Development**
 
