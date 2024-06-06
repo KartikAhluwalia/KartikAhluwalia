@@ -22,4 +22,4 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-[![Image of https://github.com/formidablae/my_github_profile_views_counter](https://github.com/formidablae/my_github_profile_views_counter/blob/master/svg/profile/badge.svg)](https://github.com/formidablae/my_github_profile_views_counter)
+[![Image of https://github.com/formidablae/my_github_profile_views_counter](https://github.com/formidablae/my_github_profile_views_counter/blob/master/svg/profile/badge.svg)](https://github.com/KartikAhluwalia)
