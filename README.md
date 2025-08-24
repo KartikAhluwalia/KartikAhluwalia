@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>🌱 I’m currently learning Deep Learning<br>👨‍💻 Personal Portfolio : https://kartikahluwalia.github.io/KartikPortfolio.github.io/<br>💬 Ask me about Machine Learning, Deep Learning, C++<br>📫 How to reach me kartikahluwalia1304@gmail.com<br>⚡ Fun fact I love Potatoes🥔
+<br>🌱 I’m currently learning Deep Learning<br>👨‍💻 Personal Portfolio : https://kartikahluwalia.github.io/KartikPortfolio.github.io/<br>💬 Ask me about Machine Learning, Deep Learning, C++<br>📫 How to reach me kartikahluwalia2004@gmail.com
 
 
 ## 🌐 Socials:
